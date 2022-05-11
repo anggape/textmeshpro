@@ -1,0 +1,8 @@
+{
+    "name": "com.anggape.textmeshpro",
+    "displayName": "Shared TextMeshPro Configuration",
+    "version": "0.0.0",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+    }
+}
